@@ -1,4 +1,4 @@
-import Button from "./ui/button";
+import Button from "./ui/Button";
 import { Download, Phone } from "lucide-react";
 
 function CallToAction() {

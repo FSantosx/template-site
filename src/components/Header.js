@@ -1,5 +1,5 @@
 import { Download } from "lucide-react";
-import Button from "./ui/button.js";
+import Button from "./ui/Button.js";
 
 function Header() {
   return (
